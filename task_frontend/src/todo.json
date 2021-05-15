@@ -1,0 +1,22 @@
+{
+    "todo": [
+        {
+            "title": "Task 1",
+            "responsible": "Mark",
+            "description": "Lorem Ipsum",
+            "priority": "Low"
+        },
+        {
+            "title": "Task 2",
+            "responsible": "Mark",
+            "description": "Lorem Ipsum",
+            "priority": "Low"
+        },
+        {
+            "title": "Task 3",
+            "responsible": "Mark",
+            "description": "Lorem Ipsum",
+            "priority": "Low"
+        }
+    ]
+}
